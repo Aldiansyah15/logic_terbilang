@@ -1,7 +1,7 @@
 # 🧮 Program Fungsi Terbilang (JavaScript)
 
 ### 📌 Deskripsi
-Program ini dibuat sebagai bagian dari **Technical Test RPA Developer – PT Pancaran Group (Inland Transportation)**.  
+Program ini dibuat sebagai bagian dari **Technical Test RPA Developer – PT Pancaran Group **.  
 Tujuannya adalah membuat fungsi **terbilang**, yaitu mengonversi angka menjadi kalimat dalam Bahasa Indonesia.
 
 Contoh:  
